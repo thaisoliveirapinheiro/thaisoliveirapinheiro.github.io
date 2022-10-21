@@ -2,6 +2,7 @@ body {
     background: #CCCCCC
 {
 
+#banner {
 h1 {
     text-aling: center
 }
@@ -17,3 +18,4 @@ p {
 em strong {
     color: #FF0000;
 }
+     
