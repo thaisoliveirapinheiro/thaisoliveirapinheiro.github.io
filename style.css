@@ -3,11 +3,12 @@ body {
 }
 
 #banner {
-    width: 40%;
+    width: 100%;
 }
 
 .principal{
      background: #CCCCCC
+     padding: 30px;
 }
 
 h1 {
@@ -32,6 +33,7 @@ font-style: italic
 
 .beneficios {
     background: #FFFFFF;
+    padding: 20px;
 }
 
 h2 {
@@ -40,6 +42,8 @@ h2 {
 ul {
     display:inline-block;
     vertical-align: top;
+    width: 20%
+    margin-righ: 15%
 }
 
 .imagembeneficios {
