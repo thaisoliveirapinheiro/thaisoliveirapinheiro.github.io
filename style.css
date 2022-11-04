@@ -3,7 +3,7 @@ body {
 }
 
 #banner {
-    width: 70%;
+    width: 60%;
 }
 
 .principal{
@@ -11,7 +11,7 @@ body {
      padding: 30px;
 }
 
-h1 {
+.titulo-centralizado {
     text-aling: center
 }
 
