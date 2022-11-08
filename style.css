@@ -3,7 +3,7 @@ body {
 }
 
 #banner {
-    width: 60%;
+    width: 75%;
 }
 
 .principal{
@@ -12,6 +12,7 @@ body {
 }
 
 .titulo-principal {
+    padding-left: 20px;
    
 
 .titulo-centralizado {
